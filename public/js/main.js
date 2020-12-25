@@ -1,6 +1,6 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyAUtHEnFH1HvP8e7XMik5l0LlUeEP06--0",
+  apiKey: "",
   authDomain: "poopp-cktr.firebaseapp.com",
   databaseURL: "https://poopp-cktr.firebaseio.com",
   projectId: "poopp-cktr",
